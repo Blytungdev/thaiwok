@@ -1,2 +1,2 @@
-# thaiwok
-Semi-automatic measurement uploading
+# & Thai Wok
+Semi-automatic python script for uploading measurement data to google sheets
